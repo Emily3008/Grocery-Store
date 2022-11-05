@@ -1,0 +1,22 @@
+.item-show{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(255, 145, 145);
+    z-index: 1;
+    padding: 10px;
+    border-radius: 10px;
+    
+
+}
+
+.item-show p {
+    text-align: center;
+    
+}
